@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhanush
 - 👀 I’m interested in AIML
-- 📫 You can reach me through my contact number or Linkedln
+- 📫 You can reach me through Linkedln
 - ⚡ Fun fact: I am not funny so no funny fact 😅
 
 <!---
